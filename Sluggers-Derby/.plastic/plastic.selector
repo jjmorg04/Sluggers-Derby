@@ -1,0 +1,4 @@
+repository "Sluggers-Derby@jjmorg04@cloud"
+  path "/"
+    br "/main"
+    co "/main"
